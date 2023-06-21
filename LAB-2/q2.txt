@@ -1,0 +1,8 @@
+hello
+bye
+pinebye
+banan
+orange
+mango
+strawberry
+blueberry
